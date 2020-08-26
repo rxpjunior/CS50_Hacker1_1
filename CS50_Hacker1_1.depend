@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1589814109 source:c:\workspaces\codeblocks\bibliotecacs50\cs50.c
+	<ctype.h>
+	<errno.h>
+	<float.h>
+	<limits.h>
+	<math.h>
+	<stdarg.h>
+	<stdint.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1589814109 c:\workspaces\codeblocks\bibliotecacs50\cs50.h
+	<float.h>
+	<limits.h>
+	<stdarg.h>
+	<stdbool.h>
+	<stddef.h>
+
+1598442823 source:c:\workspaces\codeblocks\cs50_hacker1_1\main.c
+	<cs50.c>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
